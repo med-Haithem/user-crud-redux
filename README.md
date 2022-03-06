@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployed Version:
-https://frontend-recruitment-task-proexe.vercel.app/
+https://user-crud-redux.vercel.app/
 
 
 ## Available Scripts
